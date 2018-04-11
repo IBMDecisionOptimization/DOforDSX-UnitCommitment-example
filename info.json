@@ -1,0 +1,9 @@
+{
+	"provider": ["IBM"], 
+	"name":  "DO for DSX Unit Comitment example" ,
+	"model": [ "CPLEX" ],
+	"development": [ "Python" ],
+	"category": [ {"DOforDSX":["DO for DSX"]} ],
+	"industry": [ "Energy" ],
+	"abstract": "According to the expected load over time, optimize electricity production between different units."
+}
