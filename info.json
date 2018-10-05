@@ -1,9 +1,9 @@
 {
 	"provider": ["IBM"], 
-	"name":  "DO for DSX Unit Comitment example" ,
+	"name":  "DO for WS Unit Comitment example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Python" ],
-	"category": [ {"DOforDSX":["DO for DSX"]} ],
+	"category": [ {"DOforWS":["DO for WS"]} ],
 	"industry": [ "Energy" ],
 	"abstract": "According to the expected load over time, optimize electricity production between different units."
 }
